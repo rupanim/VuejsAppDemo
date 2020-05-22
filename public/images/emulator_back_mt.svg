@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160pt"
+   height="181pt"
+   viewBox="0 0 160 181"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="emulator_back.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.0430939"
+     inkscape:cx="100"
+     inkscape:cy="113.125"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     fill="#F3F3F3"
+     d=" M 16.99 28.16 C 16.72 23.43 20.55 19.39 24.98 18.39 C 26.97 18.09 28.98 18.08 30.99 18.05 C 62.66 18.02 94.34 18.09 126.02 18.01 C 127.40 18.06 128.78 18.14 130.16 18.25 L 129.82 18.51 C 126.82 21.11 123.08 22.87 119.02 22.49 C 90.34 22.39 61.66 22.49 32.99 22.43 C 27.01 22.14 22.64 27.04 16.99 28.16 Z"
+     id="path6" />
+  <path
+     fill="#ced1d4"
+     d=" M 119.02 22.49 C 123.08 22.87 126.82 21.11 129.82 18.51 C 130.94 19.05 132.06 19.60 133.20 20.12 C 130.45 22.49 127.96 25.88 124.05 26.17 C 119.38 26.64 114.68 26.28 109.99 26.33 C 84.00 26.34 58.00 26.31 32.01 26.34 C 27.26 25.91 22.81 30.16 23.35 34.98 C 23.35 70.67 23.34 106.36 23.38 142.04 C 23.27 144.19 23.26 146.44 22.34 148.43 C 20.74 150.22 18.47 151.40 17.27 153.55 L 16.90 154.12 C 17.17 112.13 17.01 70.14 16.99 28.16 C 22.64 27.04 27.01 22.14 32.99 22.43 C 61.66 22.49 90.34 22.39 119.02 22.49 Z"
+     id="path8" />
+  <path
+     fill="#a9adaf"
+     d=" M 124.05 26.17 C 127.96 25.88 130.45 22.49 133.20 20.12 C 134.41 21.39 135.50 22.77 136.46 24.25 C 131.76 26.15 131.22 31.54 131.19 35.94 C 131.26 71.94 131.15 107.94 131.26 143.95 C 131.19 146.99 131.15 150.50 128.77 152.76 C 126.54 155.14 123.04 155.18 120.02 155.26 C 89.01 155.20 57.99 155.27 26.98 155.20 C 23.92 155.14 21.02 156.16 18.20 157.20 C 17.82 156.00 17.51 154.78 17.27 153.55 C 18.47 151.40 20.74 150.22 22.34 148.43 C 23.26 146.44 23.27 144.19 23.38 142.04 C 23.34 106.36 23.35 70.67 23.35 34.98 C 22.81 30.16 27.26 25.91 32.01 26.34 C 58.00 26.31 84.00 26.34 109.99 26.33 C 114.68 26.28 119.38 26.64 124.05 26.17 Z"
+     id="path10" />
+  <path
+     fill="#858d89"
+     d=" M 131.19 35.94 C 131.22 31.54 131.76 26.15 136.46 24.25 C 137.14 27.82 137.03 31.46 137.01 35.08 C 136.98 74.07 137.03 113.06 136.98 152.04 C 137.17 157.37 132.28 162.01 127.06 161.99 C 93.66 162.00 60.25 162.01 26.85 161.99 C 23.32 162.06 20.46 159.64 18.20 157.20 C 21.02 156.16 23.92 155.14 26.98 155.20 C 57.99 155.27 89.01 155.20 120.02 155.26 C 123.04 155.18 126.54 155.14 128.77 152.76 C 131.15 150.50 131.19 146.99 131.26 143.95 C 131.15 107.94 131.26 71.94 131.19 35.94 Z"
+     id="path12" />
+</svg>
